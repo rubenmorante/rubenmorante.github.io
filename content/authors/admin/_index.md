@@ -32,7 +32,7 @@ education:
     - course: Máster en Ingeniería Informática
       institution: Universidad Rey Juan Carlos
       year: 2020
-    - course: Grado en Ingeniería Informática (TFG 10 · Matrícula de Honor)
+    - course: Grado en Ingeniería Informática
       institution: Universidad Rey Juan Carlos
       year: 2017
     - course: Grado en Ingeniería de Computadores (TFG 10 · Matrícula de Honor)
@@ -110,7 +110,7 @@ skills:
         percent: 90
         icon: git-alt
         icon_pack: fab
-      - name: IntelliJ / VS Code
+      - name: IntelliJ / Antigravity
         description: ''
         percent: 90
         icon: code

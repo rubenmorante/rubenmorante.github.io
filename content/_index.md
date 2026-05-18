@@ -44,7 +44,7 @@ sections:
           location: Móstoles, Madrid
           date_start: '2023-02-01'
           date_end: '2024-09-30'
-          description: Docencia en el área de Ciencias de la Computación. [Ver docencia](https://gestion2.urjc.es/pdi/ver/ruben.morante)
+          description: Docencia en el área de Ciencias de la Computación.
         - title: Ingeniero de Desarrollo y Optimización
           company: oga.ai
           company_url: ''
@@ -111,7 +111,6 @@ sections:
         |-----|--------|-------------|
         | 2025 | Doctorado con Matrícula de Honor (100%, 1er puesto con mención honorífica) | Universidad Rey Juan Carlos |
         | 2020 | Matrícula de Honor — TFM Ingeniería Informática | Universidad Rey Juan Carlos |
-        | 2017 | Matrícula de Honor — TFG Ingeniería Informática | Universidad Rey Juan Carlos |
         | 2017 | Matrícula de Honor — TFG Ingeniería de Computadores | Universidad Rey Juan Carlos |
     design:
       columns: '1'

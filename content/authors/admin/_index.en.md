@@ -35,7 +35,7 @@ education:
     - course: Degree in Computer Engineering (Final Project Grade 10 · Honors)
       institution: Universidad Rey Juan Carlos
       year: 2017
-    - course: Degree in Computer Science (Final Project Grade 10 · Honors)
+    - course: Degree in Computer Science
       institution: Universidad Rey Juan Carlos
       year: 2017
 
@@ -110,7 +110,7 @@ skills:
         percent: 90
         icon: git-alt
         icon_pack: fab
-      - name: IntelliJ / VS Code
+      - name: IntelliJ / Antigravity
         description: ''
         percent: 90
         icon: code

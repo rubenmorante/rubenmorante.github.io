@@ -44,7 +44,7 @@ sections:
           location: Móstoles, Madrid
           date_start: '2023-02-01'
           date_end: '2024-09-30'
-          description: Teaching in Computer Science. [See courses](https://gestion2.urjc.es/pdi/ver/ruben.morante)
+          description: Teaching in Computer Science.
         - title: Development and Optimization Engineer
           company: oga.ai
           company_url: ''
@@ -112,7 +112,6 @@ sections:
         | 2025 | PhD with Honours (100%, 1st place with distinction) | Universidad Rey Juan Carlos |
         | 2020 | Grade 100% (1st) — Master's Thesis in Computer Science | Universidad Rey Juan Carlos |
         | 2017 | Grade 100% (1st) — Final Degree Project in Computer Engineering | Universidad Rey Juan Carlos |
-        | 2017 | Grade 100% (1st) — Final Degree Project in Computer Science | Universidad Rey Juan Carlos |
     design:
       columns: '1'
 
