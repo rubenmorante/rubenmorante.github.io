@@ -6,6 +6,8 @@ superuser: true
 role: Doctor en Inteligencia Artificial · Investigador y Desarrollador
 
 organizations:
+  - name: R2 AI Agency
+    url: https://www.r2agency.ai/
   - name: Waad
     url: https://www.wa-ad.com/
   - name: Universidad Rey Juan Carlos (URJC)
