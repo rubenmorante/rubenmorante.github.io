@@ -11,7 +11,7 @@ organizations:
   - name: Universidad Rey Juan Carlos (URJC)
     url: https://www.urjc.es/
 
-bio: PhD in AI and researcher in combinatorial optimization and metaheuristics. Specialized in vehicle routing problems and metaheuristic algorithms applied to logistics. Currently working in data science, machine learning and LLMs.
+bio: PhD in AI and researcher in combinatorial optimization and metaheuristics. Specialized in vehicle routing problems and metaheuristic algorithms applied to logistics. Currently working in data science, machine learning and LLMs, and CEO of R2 AI Agency.
 
 interests:
   - Combinatorial Optimization
@@ -53,13 +53,13 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=HCVsXyUAAAAJ&hl=es
   - icon: orcid
-    icon_pack: ai
+    icon_pack: fab
     link: https://orcid.org/0000-0003-2870-2293
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ruben-Morante-Gonzalez
-  - icon: dblp
-    icon_pack: ai
+  - icon: list-ul
+    icon_pack: fas
     link: https://dblp.org/pid/385/1668.html
   - icon: users
     icon_pack: fas
@@ -140,4 +140,4 @@ PhD in Artificial Intelligence from **Universidad Rey Juan Carlos (URJC)** and m
 
 My doctoral thesis was awarded with **Honors** (100%, 1st place with distinction) in the PhD Programme in Information and Communications Technologies. My research has been published in JCR-indexed journals (Q1).
 
-I currently work as a **PhD in AI at Waad**, combining data science, machine learning and large language models with optimization techniques to solve real-world business problems.
+I currently work as a **PhD in AI at Waad**, combining data science, machine learning and large language models with optimization techniques to solve real-world business problems. I'm also **CEO and founder of R2 AI Agency**, a company specialized in AI-driven automations for businesses.

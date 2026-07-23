@@ -148,7 +148,7 @@ sections:
           name: LinkedIn
           link: 'https://www.linkedin.com/in/rub%C3%A9n-morante-gonz%C3%A1lez-04631868'
         - icon: orcid
-          icon_pack: ai
+          icon_pack: fab
           name: ORCID
           link: 'https://orcid.org/0000-0003-2870-2293'
         - icon: envelope

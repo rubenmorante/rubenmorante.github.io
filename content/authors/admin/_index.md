@@ -11,7 +11,7 @@ organizations:
   - name: Universidad Rey Juan Carlos (URJC)
     url: https://www.urjc.es/
 
-bio: Doctor en IA e investigador en optimización combinatoria y metaheurísticas. Especializado en problemas de rutas de vehículos y algoritmos metaheurísticos aplicados a la logística. Actualmente trabajando en ciencia de datos, machine learning y LLMs.
+bio: Doctor en IA e investigador en optimización combinatoria y metaheurísticas. Especializado en problemas de rutas de vehículos y algoritmos metaheurísticos aplicados a la logística. Actualmente trabajando en ciencia de datos, machine learning y LLMs, y CEO de R2 AI Agency.
 
 interests:
   - Optimización combinatoria
@@ -53,13 +53,13 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=HCVsXyUAAAAJ&hl=es
   - icon: orcid
-    icon_pack: ai
+    icon_pack: fab
     link: https://orcid.org/0000-0003-2870-2293
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ruben-Morante-Gonzalez
-  - icon: dblp
-    icon_pack: ai
+  - icon: list-ul
+    icon_pack: fas
     link: https://dblp.org/pid/385/1668.html
   - icon: users
     icon_pack: fas
@@ -140,4 +140,4 @@ Doctor en Inteligencia Artificial por la **Universidad Rey Juan Carlos (URJC)** 
 
 Mi tesis doctoral obtuvo la **Matrícula de Honor** (100%, 1er puesto con mención honorífica) en el Programa de Doctorado en Tecnologías de la Información y las Comunicaciones. Mis investigaciones han sido publicadas en revistas indexadas en JCR (Q1).
 
-Actualmente trabajo como **PhD en IA en Waad**, combinando ciencia de datos, machine learning y grandes modelos de lenguaje con técnicas de optimización para resolver problemas reales del sector empresarial.
+Actualmente trabajo como **PhD en IA en Waad**, combinando ciencia de datos, machine learning y grandes modelos de lenguaje con técnicas de optimización para resolver problemas reales del sector empresarial. Además, soy **CEO y fundador de R2 AI Agency**, una empresa especializada en automatizaciones de Inteligencia Artificial para negocios.
