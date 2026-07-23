@@ -51,13 +51,28 @@ social:
     link: https://github.com/rubenmorante
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=rubenmorante
+    link: https://scholar.google.com/citations?user=HCVsXyUAAAAJ&hl=es
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2870-2293
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ruben-Morante-Gonzalez
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/385/1668.html
+  - icon: users
+    icon_pack: fas
+    link: https://grafo.etsii.urjc.es/en/author/ruben-morante-gonzalez/
+  - icon: database
+    icon_pack: fas
+    link: https://www.scopus.com/authid/detail.uri?authorId=58701457000
+  - icon: book-open
+    icon_pack: fas
+    link: https://loop.frontiersin.org/people/3317850/publications
+  - icon: certificate
+    icon_pack: fas
+    link: https://www.webofscience.com/wos/author/record/PCS-8725-2025
 
 skills:
   - name: Research

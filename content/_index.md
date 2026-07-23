@@ -24,6 +24,13 @@ sections:
       title: Experiencia
       date_format: Jan 2006
       items:
+        - title: CEO
+          company: R2 AI Agency
+          company_url: 'https://www.r2agency.ai/'
+          location: Madrid, España
+          date_start: '2026-03-01'
+          date_end: ''
+          description: Fundador y CEO — automatizaciones de IA para empresas.
         - title: PhD en IA
           company: Waad
           company_url: 'https://www.wa-ad.com/'
@@ -115,6 +122,17 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    id: r2-agency
+    content:
+      title: R2 AI Agency
+      text: |
+        R2 AI Agency es mi empresa, especializada en automatizaciones de Inteligencia Artificial para negocios.
+
+        🌐 [Web](https://www.r2agency.ai/) · 💼 [LinkedIn](https://www.linkedin.com/company/r2-ai-agency/) · 📘 [Facebook](https://www.facebook.com/profile.php?id=61590473979114) · ✖️ [X](https://x.com/R2AIAGENCY) · 📷 [Instagram](https://www.instagram.com/r2aiagency_/) · 🎵 [TikTok](https://www.tiktok.com/@r2.ai.agency)
+    design:
+      columns: '1'
+
   - block: contact
     id: contact
     content:
@@ -133,4 +151,16 @@ sections:
           icon_pack: ai
           name: ORCID
           link: 'https://orcid.org/0000-0003-2870-2293'
+        - icon: envelope
+          icon_pack: fas
+          name: R2 AI Agency
+          link: 'mailto:ruben.morante@r2agency.ai'
+        - icon: facebook
+          icon_pack: fab
+          name: Facebook
+          link: 'https://www.facebook.com/profile.php?id=61590193726333'
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
+          link: 'https://www.instagram.com/rubenmg321/'
 ---
